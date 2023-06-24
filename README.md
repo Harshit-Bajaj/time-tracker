@@ -3,4 +3,4 @@ Java (Maven) application for tracking time on the job
 
 Time tracker
 
-Have a wonderful life ahead!!!
+Have a wonderful life ahead!!
